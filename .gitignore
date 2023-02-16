@@ -1,0 +1,5 @@
+#PigPose
+/datasets/
+/results/
+/__pycache__
+/config_tmp.py
